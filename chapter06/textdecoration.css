@@ -1,0 +1,7 @@
+p {
+  text-decoration: blue wavy overline 5px;
+  text-transform: capitalize; /*애초에 대문자로 남긴애는 그대로 대문자자*/
+  /* text-transform: uppercase; */
+  /* text-transform: lowercase; */
+  /* 마찬가지로 이상의 text-decoration속성은 다양한 속성값을 접어넣어보면서 확인하시기 바랍니다.*/
+}
